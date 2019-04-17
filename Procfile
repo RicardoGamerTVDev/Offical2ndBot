@@ -1,0 +1,1 @@
+Worker: dist/index.js
