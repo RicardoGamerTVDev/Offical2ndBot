@@ -1,0 +1,33 @@
+{
+    "game": "",
+    "commands": [
+        "addfaq",
+        "ban",
+        "botinfo",
+        "commands",
+        "doggo",
+        "flip",
+        "kick",
+        "level",
+        "mirror",
+        "ping",
+        "purge",
+        "report",
+        "roll",
+        "rps",
+        "rtfm",
+        "serverinfo",
+        "suggest",
+        "ticket"
+    ],
+    "token": "NTU5MDk1MDA5MzgzNTQ2ODgy.XLdpjw._IasuQH14lNWnQhaq-4ktDeFEf0",
+    "welcomeChannel": "557363503858712600",
+    "reportChannel": "557709397074247704",
+    "kicksAndBansChannel": "557682418954534944",
+    "apiBearerToken": "mfa.qtQlPnEUdamGJxm6j7n2JEituIuHD75JMdgrB3Xgj9M6OK37OOMtSqYJdaIUdsGVNIoT_5DnHAG-wjCU95yy",
+    "apiEmail": "nicegamer1012@gmail.com",
+    "apiPassword": "Peabody2018",
+    "idiots": [],
+    "idiotAnswer": "",
+    "name":"GamingWithJ&M"
+}

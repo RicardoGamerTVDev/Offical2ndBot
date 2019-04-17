@@ -1,0 +1,31 @@
+{
+  "name": "2botofdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aspnet/signalr": "^1.1.4",
+    "@types/cheerio": "^0.22.11",
+    "@types/node": "^11.13.4",
+    "@types/node-fetch": "^2.3.2",
+    "@types/signalr": "^2.2.35",
+    "@types/superagent": "^4.1.1",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.4.2",
+    "gulp": "^4.0.0",
+    "gulp-ts": "^0.3.0",
+    "node": "^11.13.0",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0",
+    "superagent": "^5.0.2",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.3",
+    "websocket": "^1.0.28",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
